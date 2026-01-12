@@ -11,3 +11,4 @@ A curated list of awesome open source tools and commercial products that will he
  * [Polyaxon](https://github.com/polyaxon/polyaxon): A cloud native platform for reproducible and scalable machine learning and deep learning on kubernetes.
  * [Seldon Core](https://github.com/SeldonIO/seldon-core): Open source platform for deploying and monitoring machine learning models in kubernetes.
  * [Training Operator](https://github.com/kubeflow/training-operator): Training operators on Kubernetes.
+ * [Valohai] (https://docs.valohai.com/installation-and-setup/kubernetes/): Runs reproducible ML and LLM pipelines on Kubernetes with versioned runs, artifacts and lineage, with hybrid cloud and on-prem execution.
